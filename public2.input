@@ -1,0 +1,19 @@
+3;;
+"banana";;
+#t;;
+;;
+nil;;
+(+ 2 3;;
+(number? 330);;
+())(;;
+(+ * / 4));;
+(if (> (* 2 3) (+ 2 3)) 100 "sorry");;
+(= #t (boolean? (> 4 5));;
+(= #t (boolean? (> 4 5)));;
+(define x
+  (if #f
+    "this"
+    "that"
+  )
+);;
+nil 3;;
