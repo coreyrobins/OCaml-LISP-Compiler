@@ -1,0 +1,1 @@
+This program is a basic compiler for the LISP programming language. It is written in OCaml and includes an Parser, Scanner, and Interpreter. To compile the program, you need an OCaml interpreter/compiler.
